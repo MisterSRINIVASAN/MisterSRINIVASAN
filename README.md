@@ -1,11 +1,12 @@
 # <p align="center">Hi there, I'm Srinivasan 👋</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MisterSRINIVASAN/MisterSRINIVASAN/main/github_banner_v2.png" alt="Srinivasan's Banner" width="100%">
+  <!-- Replace this link with your uploaded github_banner_v4.png URL -->
+  <img src="github_banner_v4.png" alt="Srinivasan's Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Python+%26+JavaScript+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI%2FML+Engineer;Data+Analyst;Passionate+about+MLOps" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,33 +43,55 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/FastAPI-00584B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-00584B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- AI/ML & Data -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Transformers-FFA500?style=for-the-badge&logo=transformers&logoColor=white" />
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ---
 
 ### 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/MisterSRINIVASAN/Anomaly-Detection-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MisterSRINIVASAN&repo=Anomaly-Detection-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Anomaly-Detection-System" />
+  </a>
+  <a href="https://github.com/MisterSRINIVASAN/Autonomous-Research-Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MisterSRINIVASAN&repo=Autonomous-Research-Agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Autonomous-Research-Agent" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/MisterSRINIVASAN/CHAT-APP">
@@ -84,8 +107,12 @@
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Srinivasan Balaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  
+  <a href="https://linkedin.com/in/Srinivasan Balaji" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 <p align="center">
