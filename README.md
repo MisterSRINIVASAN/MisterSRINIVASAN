@@ -13,15 +13,11 @@
 ### <p align="center">🚀 My GitHub Stats</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MisterSRINIVASAN&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://metrics.lecoq.io/MisterSRINIVASAN?base=header,activity,community,repositories,metadata&config.timezone=Asia/Kolkata&theme=tokyonight" alt="GitHub Metrics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterSRINIVASAN&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MisterSRINIVASAN&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MisterSRINIVASAN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -93,29 +89,23 @@
 
 ### 🌟 Featured Projects
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/MisterSRINIVASAN/Anomaly-Detection-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MisterSRINIVASAN&repo=Anomaly-Detection-System&theme=dark&show_owner=true" alt="Anomaly-Detection-System" />
+    <img src="https://img.shields.io/badge/Anomaly--Detection--System-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/MisterSRINIVASAN/Autonomous-Research-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MisterSRINIVASAN&repo=Autonomous-Research-Agent&theme=dark&show_owner=true" alt="Autonomous-Research-Agent" />
+    <img src="https://img.shields.io/badge/Autonomous--Research--Agent-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
+</div>
+<br/>
+<div align="center">
   <a href="https://github.com/MisterSRINIVASAN/CHAT-APP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MisterSRINIVASAN&repo=CHAT-APP&theme=dark&show_owner=true" alt="CHAT-APP" />
+    <img src="https://img.shields.io/badge/CHAT--APP-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/MisterSRINIVASAN/IMAGE-GENERATOR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MisterSRINIVASAN&repo=IMAGE-GENERATOR&theme=dark&show_owner=true" alt="IMAGE-GENERATOR" />
+    <img src="https://img.shields.io/badge/IMAGE--GENERATOR-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
