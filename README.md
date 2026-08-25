@@ -1,58 +1,64 @@
-# <p align="center">Hi there, I'm Srinivasan 👋</p>
-
 <p align="center">
-  <img src="github_banner_v4.png" alt="Srinivasan's Banner" width="100%">
+  <img src="github_banner_v5.jpg" alt="Srinivasan — Full Stack Developer, AI/ML Engineer, Data Analyst, ERP Developer" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;AI+%2F+ML+Research+Engineer;Data+Analytics+Specialist;Agentic+AI+%26+MLOps+Expert;Building+the+Future+of+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F43F5E&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Data+Analyst;ERP+Developer;Building+the+Future+of+Automation" alt="Typing SVG" />
 </p>
 
-<br/>
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/srinivasan-balaji-64b3262b8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kbcsrinivasan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://portfolio-smoky-six-99.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-F43F5E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MisterSRINIVASAN&color=F43F5E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B0B0E,50:F43F5E,100:2B0B0E&height=3" width="100%" alt="" />
 
 ## 💫 About Me
+
 <p align="center">
-  I am a passionate <b>Full Stack Developer</b> and <b>AI/ML Engineer</b> dedicated to building intelligent systems that solve real-world problems. With a deep background in <b>Data Analytics</b> and <b>Agentic AI</b>, I specialize in creating end-to-end MLOps pipelines and highly interactive web applications.
+  I'm a <b>Full Stack Developer</b> and <b>AI/ML Engineer</b> who builds intelligent systems that solve real problems — from
+  end-to-end MLOps pipelines to highly interactive web applications and enterprise ERP tooling.
 </p>
 
 <p align="center">
-  🔭 I’m currently working on <b>Autonomous Research Agents</b> <br/>
-  🌱 I’m currently learning <b>Advanced Reinforcement Learning</b> <br/>
-  👯 I’m looking to collaborate on <b>Open Source AI Projects</b> <br/>
-  💬 Ask me about <b>Python, React, or LangChain</b> <br/>
+  🔭 Currently building <b>Autonomous Research Agents</b><br/>
+  🌱 Currently learning <b>Advanced Reinforcement Learning</b><br/>
+  👯 Looking to collaborate on <b>Open Source AI Projects</b><br/>
+  💬 Ask me about <b>Python, React, or LangChain</b><br/>
+  📫 Reach me at <b>kbcsrinivasan@gmail.com</b>
 </p>
 
-<br/>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B0B0E,50:F43F5E,100:2B0B0E&height=3" width="100%" alt="" />
 
----
-
-## 🚀 My GitHub Universe
+## 🚀 GitHub Universe
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MisterSRINIVASAN&theme=tokyonight" alt="GitHub Profile Summary" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MisterSRINIVASAN&theme=radical" alt="Profile Summary" width="90%" />
 </p>
-
-<br/>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/MisterSRINIVASAN" width="100%" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MisterSRINIVASAN&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MisterSRINIVASAN&theme=radical" alt="Most Commit Language" />
 </p>
-
-<br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MisterSRINIVASAN&theme=tokyonight" alt="Stats Card" />
-  <img src="https://streak-stats.demolab.com/?user=MisterSRINIVASAN&theme=tokyonight&hide_border=true" alt="Streak Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MisterSRINIVASAN&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MisterSRINIVASAN&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </p>
 
-<br/>
-<br/>
+<p align="center">
+  <img src="https://ghchart.rshah.org/F43F5E/MisterSRINIVASAN" width="100%" alt="Contribution Graph" />
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B0B0E,50:F43F5E,100:2B0B0E&height=3" width="100%" alt="" />
 
 ## 🛠️ Technical Powerhouse
 
@@ -66,19 +72,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<br/>
-
 ### ⚛️ Frontend & Backend Frameworks
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-00584B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
-
-<br/>
 
 ### 🧠 AI, ML & Deep Learning
 <div align="center">
@@ -90,8 +93,6 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
-<br/>
-
 ### 🤖 Agentic AI & NLP
 <div align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -101,18 +102,14 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
-<br/>
-
 ### 📊 Data Analysis & Engineering
 <div align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </div>
-
-<br/>
 
 ### 🗄️ Databases & Storage
 <div align="center">
@@ -123,107 +120,109 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<br/>
-
 ### ☁️ DevOps & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-<br/>
-<br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B0B0E,50:F43F5E,100:2B0B0E&height=3" width="100%" alt="" />
 
 ## 🌟 Major Engineered Systems
 
-<p align="center">
-  <b>Anomaly Detection System</b> <br/>
-  <i>Real-time monitoring and detection of system irregularities using advanced ML models.</i> <br/>
-  <a href="https://github.com/MisterSRINIVASAN/Anomaly-Detection-System">
-    <img src="https://img.shields.io/badge/View--Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 Anomaly Detection System</h3>
+      <p align="center">Real-time monitoring and detection of system irregularities using advanced ML models.</p>
+      <p align="center">
+        <a href="https://github.com/MisterSRINIVASAN/Anomaly-Detection-System">
+          <img src="https://img.shields.io/badge/View_Repository-F43F5E?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Autonomous Research Agent</h3>
+      <p align="center">An AI agent that performs deep-dive research and synthesizes reports autonomously.</p>
+      <p align="center">
+        <a href="https://github.com/MisterSRINIVASAN/Autonomous-Research-Agent">
+          <img src="https://img.shields.io/badge/View_Repository-F43F5E?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 Image Generator</h3>
+      <p align="center">Deep learning based image synthesis tool powered by diffusion models.</p>
+      <p align="center">
+        <a href="https://github.com/MisterSRINIVASAN/IMAGE-GENERATOR">
+          <img src="https://img.shields.io/badge/View_Repository-F43F5E?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 Chat App</h3>
+      <p align="center">Real-time full-stack communication platform with WebSocket integration.</p>
+      <p align="center">
+        <a href="https://github.com/MisterSRINIVASAN/CHAT-APP">
+          <img src="https://img.shields.io/badge/View_Repository-F43F5E?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 Vendor Management System</h3>
+      <p align="center">Robust backend for enterprise-scale vendor tracking and automation.</p>
+      <p align="center">
+        <a href="https://github.com/MisterSRINIVASAN/Vendor-ManagementSystem">
+          <img src="https://img.shields.io/badge/View_Repository-F43F5E?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🖥️ Portfolio Site</h3>
+      <p align="center">React and Tailwind portfolio with Framer Motion animations, deployed on Vercel.</p>
+      <p align="center">
+        <a href="https://portfolio-smoky-six-99.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Site-F43F5E?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-<p align="center">
-  <b>Autonomous Research Agent</b> <br/>
-  <i>An AI agent capable of performing deep-dive research and synthesizing reports autonomously.</i> <br/>
-  <a href="https://github.com/MisterSRINIVASAN/Autonomous-Research-Agent">
-    <img src="https://img.shields.io/badge/View--Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <b>IMAGE GENERATOR</b> <br/>
-  <i>Deep learning based image synthesis tool powered by Diffusion models.</i> <br/>
-  <a href="https://github.com/MisterSRINIVASAN/IMAGE-GENERATOR">
-    <img src="https://img.shields.io/badge/View--Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <b>CHAT-APP</b> <br/>
-  <i>Real-time full-stack communication platform with WebSocket integration.</i> <br/>
-  <a href="https://github.com/MisterSRINIVASAN/CHAT-APP">
-    <img src="https://img.shields.io/badge/View--Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <b>Vendor Management System</b> <br/>
-  <i>Robust backend for enterprise-scale vendor tracking and automation.</i> <br/>
-  <a href="https://github.com/MisterSRINIVASAN/Vendor-ManagementSystem">
-    <img src="https://img.shields.io/badge/View--Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-<br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B0B0E,50:F43F5E,100:2B0B0E&height=3" width="100%" alt="" />
 
 ## 📂 Academic & Utility Repositories
 
 <div align="center">
   <a href="https://github.com/MisterSRINIVASAN/DATA-SCIENCE">
-    <img src="https://img.shields.io/badge/DATA--SCIENCE-21262d?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/DATA--SCIENCE-21262d?style=flat-square&logo=github&logoColor=F43F5E" />
   </a>
   <a href="https://github.com/MisterSRINIVASAN/Pdf-Reader">
-    <img src="https://img.shields.io/badge/Pdf--Reader-21262d?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pdf--Reader-21262d?style=flat-square&logo=github&logoColor=F43F5E" />
   </a>
   <a href="https://github.com/MisterSRINIVASAN/Boutique-Project">
-    <img src="https://img.shields.io/badge/Boutique--Project-21262d?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Boutique--Project-21262d?style=flat-square&logo=github&logoColor=F43F5E" />
   </a>
-</div>
-<br/>
-<div align="center">
   <a href="https://github.com/MisterSRINIVASAN/Office-automation-system">
-    <img src="https://img.shields.io/badge/Office--Automation-21262d?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Office--Automation-21262d?style=flat-square&logo=github&logoColor=F43F5E" />
   </a>
   <a href="https://github.com/MisterSRINIVASAN/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio--Site-21262d?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio--Site-21262d?style=flat-square&logo=github&logoColor=F43F5E" />
   </a>
   <a href="https://github.com/MisterSRINIVASAN/git-practice">
-    <img src="https://img.shields.io/badge/Git--Practice-21262d?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git--Practice-21262d?style=flat-square&logo=github&logoColor=F43F5E" />
   </a>
 </div>
 
-<br/>
-<br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B0B0E,50:F43F5E,100:2B0B0E&height=3" width="100%" alt="" />
 
 ## 🐍 Contribution Snake
 
@@ -231,31 +230,22 @@
   <img src="https://raw.githubusercontent.com/MisterSRINIVASAN/MisterSRINIVASAN/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
-<br/>
-<br/>
-
----
-
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srinivasan-balaji-64b3262b8/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kbcsrinivasan@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://portfolio-smoky-six-99.vercel.app" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-F43F5E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MisterSRINIVASAN&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House
 </p>
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B0B0E,100:F43F5E&height=120&section=footer" width="100%" alt="" />
