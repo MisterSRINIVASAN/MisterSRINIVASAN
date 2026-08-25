@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;AI+%2F+ML+Research+Engineer;Data+Analytics+Specialist;Agentic+AI+%26+MLOps+Expert;Building+the+Future+of+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;AI+%2F+ML+Research+Engineer;Data+Analytics+Specialist;Agentic+AI+%26+MLOps+Expert;Building+the+Future+of+Automation" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -33,20 +33,20 @@
 ## 🚀 My GitHub Universe
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/MisterSRINIVASAN?base=header,activity,community,repositories,metadata&config.timezone=Asia/Kolkata&theme=tokyonight" alt="GitHub Metrics" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MisterSRINIVASAN&theme=tokyonight" alt="GitHub Profile Summary" width="90%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MisterSRINIVASAN&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=58A6FF" width="100%" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/58A6FF/MisterSRINIVASAN" width="100%" alt="Contribution Graph" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MisterSRINIVASAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats Card" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MisterSRINIVASAN&theme=tokyonight&hide_border=true" alt="Streak Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MisterSRINIVASAN&theme=tokyonight" alt="Stats Card" />
+  <img src="https://streak-stats.demolab.com/?user=MisterSRINIVASAN&theme=tokyonight&hide_border=true" alt="Streak Card" />
 </p>
 
 <br/>
@@ -97,7 +97,7 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Transformers-FFA500?style=for-the-badge&logo=transformers&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFA500?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
@@ -130,7 +130,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
